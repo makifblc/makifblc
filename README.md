@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Fabstract%2Fwindows-11-dark-mode-abstract-background-black-background-8710.html&psig=AOvVaw1UioBf2bTzba-2KKMXQIJU&ust=1747304763389000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiam5baoo0DFQAAAAAdAAAAABAE)]
+[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Fabstract%2Fwindows-11-dark-mode-abstract-background-black-background-8710.html&psig=AOvVaw1UioBf2bTzba-2KKMXQIJU&ust=1747304763389000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiam5baoo0DFQAAAAAdAAAAABAE](https://images.unsplash.com/photo-1568733873715-f9d497a47ea0?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))]
 
 <h1 align="center">Hi 👋, I'm Mehmet Akif Balcı</h1>
 <h3 align="center">19 | Aspiring Developer | Learning Code with Passion</h3>
