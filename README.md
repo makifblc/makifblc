@@ -1,5 +1,5 @@
-![MasterHead]([https://files.123freevectors.com/wp-content/original/152951-abstract-black-background-vector-illustration.jpg](https://static.vecteezy.com/system/resources/previews/049/033/798/non_2x/3d-black-geometric-abstract-background-overlap-layer-on-dark-space-with-waves-lines-decoration-minimalist-modern-graphic-design-element-cutout-style-concept-for-banner-flyer-card-or-brochure-cover-vector.jpg))
-![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+![MasterHead]([[https://files.123freevectors.com/wp-content/original/152951-abstract-black-background-vector-illustration.jpg](https://static.vecteezy.com/system/resources/previews/049/033/798/non_2x/3d-black-geometric-abstract-background-overlap-layer-on-dark-space-with-waves-lines-decoration-minimalist-modern-graphic-design-element-cutout-style-concept-for-banner-flyer-card-or-brochure-cover-vector.jpg))
+![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fblack-banner&psig=AOvVaw0N8aMxgEQdNVCFPUkHm1eQ&ust=1747566735702000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDU-Yyqqo0DFQAAAAAdAAAAABAE))
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Mehmet+Akif+Balcı+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
