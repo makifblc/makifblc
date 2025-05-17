@@ -1,4 +1,4 @@
-![MasterHead]([https://i.pinimg.com/736x/b9/f4/94/b9f4946a182ffa63c486172bb4d79b97.jpg](https://i.pinimg.com/736x/42/b1/1f/42b11fbf695a5738c136badbc3b4b1a7.jpg))
+![MasterHead](https://i.pinimg.com/736x/42/b1/1f/42b11fbf695a5738c136badbc3b4b1a7.jpg)
 ![](https://komarev.com/ghpvc/?username=makifblc&color=blue)
 <div align="center">
  <a href="https://github.com/makifblc">
